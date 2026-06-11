@@ -20,7 +20,7 @@ export default function App() {
         loop
         playsInline
         className="absolute inset-0 w-full h-full object-cover z-0"
-        src="https://cdn.videy.co/pnxzGavV1.mp4"
+        src="https://cdn.videy.co/WcUmq5V21.mp4"
       />
       
       {/* Subtle overlay for text readability against active video backgrounds */}
